@@ -4,10 +4,11 @@ This config is for IR Users.
 
 ## How to use config in ShadowRocket?
 
+Config Direct Link : 'https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/shadowIR.conf'
+
 - ✅ [Video how to add remote config](/help/ShadowRocket.MOV)
 - ✅ [Video how to update config](/help/how-to-update-config.MOV)
 
-- Config Direct Link : 'https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/shadowIR.conf'
 
 ## Contributing
 
