@@ -4,8 +4,8 @@ This config is for IR Users.
 
 ## How to use config in ShadowRocket?
 
-✅ [Video how to add remote config](/help/ShadowRocket.MOV)
-✅ [Video how to update config](/help/how-to-update-config.MOV)
+- ✅ [Video how to add remote config](/help/ShadowRocket.MOV)
+- ✅ [Video how to update config](/help/how-to-update-config.MOV)
 
 ## Contributing
 
