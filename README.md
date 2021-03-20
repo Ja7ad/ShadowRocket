@@ -2,6 +2,10 @@
 
 This config is for IR Users.
 
+## How to use config in ShadowRocket?
+
+[Video add remote config](/help/ShadowRocket.MOV)
+
 ## Contributing
 
 For contributing to this repo follow :
