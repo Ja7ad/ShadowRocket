@@ -1,3 +1,7 @@
+### version 0.0.3
+
+- IP-CIDR Iran add to direct for fully direct
+
 ### version 0.0.2
 
 - Adguard Easylist dns add to block rules
