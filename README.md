@@ -1,4 +1,4 @@
-# Shadowrocket Config Version 0.0.3
+# Shadowrocket Config Version 0.0.4
 
 This config is for IR Users.
 

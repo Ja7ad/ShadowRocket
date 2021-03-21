@@ -1,3 +1,7 @@
+### version 0.0.4
+
+- Fixed Some Rejected rules
+
 ### version 0.0.3
 
 - IP-CIDR Iran add to direct for fully direct
