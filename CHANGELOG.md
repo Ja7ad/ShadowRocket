@@ -1,3 +1,7 @@
+### version 0.0.5
+
+- Iran Ads site add to block list
+
 ### version 0.0.4
 
 - Fixed Some Rejected rules
