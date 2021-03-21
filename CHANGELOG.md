@@ -1,25 +1,17 @@
-<<<<<<< HEAD
 ### version 0.0.3
 
 - IP-CIDR Iran add to direct for fully direct
 
 ### version 0.0.2
-=======
-###version0.0.3
->>>>>>> 2f6ca61cb59d48526a281c383dd7e0fcc2bdd30e
 
--IP CIDR Iran add for direct
-
-###version0.0.2
-
--AdguardEasylistdnsaddtoblockrules
--DNS1.1.1.1addforimprovedspeed
--IP127.0.0.1addwith`localhost`mask
+- Adguard Easylist dns add to block rules
+- DNS 1.1.1.1 add for improved speed
+- IP 127.0.0.1 add with `localhost` mask
 
 
-###version0.0.1
+### version 0.0.1
 
--Adguarddnsadded
--Geoipiranaddtodirect
--Blockedsomeadvertisingsites
--TelegramserverIPaddPROXYrules
+- Adguard dns added
+- Geoip iran add to direct
+- Blocked some advertising sites
+- Telegram server IP add PROXY rules

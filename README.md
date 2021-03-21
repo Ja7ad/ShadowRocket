@@ -1,33 +1,29 @@
-<<<<<<< HEAD
 # Shadowrocket Config Version 0.0.3
-=======
-#ShadowrocketConfigVersion0.0.3
->>>>>>> 2f6ca61cb59d48526a281c383dd7e0fcc2bdd30e
 
-ThisconfigisforIRUsers.
+This config is for IR Users.
 
--SeeChangelog:[Changelogs](/CHANGELOG.md)
+- See Changelog : [Changelogs](/CHANGELOG.md)
 
-**Features:**
+**Features :**
 
--DNSadguardforremoveads
--BypassGeoIPIrantodirect
--FullsupportTelegramIP'sinproxyrules
--RejectedAdsdomainonproxy
+- DNS adguard for remove ads
+- Bypass GeoIP Iran to direct 
+- Full support Telegram IP's in proxy rules
+- Rejected Ads domain on proxy
 
 
-##HowtouseconfiginShadowRocket?
+## How to use config in ShadowRocket?
 
-ConfigDirectLink:`https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/shadowIR.conf`
+Config Direct Link : `https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/shadowIR.conf`
 
--✅[Videohowtoaddremoteconfig](/help/ShadowRocket.MOV)
--✅[Videohowtoupdateconfig](/help/how-to-update-config.MOV)
+- ✅ [Video how to add remote config](/help/ShadowRocket.MOV)
+- ✅ [Video how to update config](/help/how-to-update-config.MOV)
 
 
-##Contributing
+## Contributing
 
-Forcontributingtothisrepofollow:
+For contributing to this repo follow :
 
-1.forkrepotoyourrepository
-2.addyourrulesto`ShadowIR.conf`
-3.SendPullRequestforupdateconfig
+1. fork repo to your repository
+2. add your rules to `ShadowIR.conf`
+3. Send Pull Request for update config
