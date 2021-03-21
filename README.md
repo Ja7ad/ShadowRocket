@@ -1,6 +1,8 @@
-# Shadowrocket Config
+# Shadowrocket Config Version 0.0.2
 
 This config is for IR Users.
+
+- See Changelog : [Changelogs](/CHANGELOG.md)
 
 **Features :**
 
