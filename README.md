@@ -21,12 +21,12 @@ This config is for IR Users.
 
 Config Direct Link : `https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/shadowIR.conf`
 
-- ✅ [Video how to add/update remote config](/video/config.mp4)
+- ✅ [Video how to add/update remote config](https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/video/config.mp4)
 
 
 Server Direct Link : `https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/ShadowSV.yml`
 
-- ✅ [Video how to add/update remote servers](/video/server.mp4)
+- ✅ [Video how to add/update remote servers](https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/video/server.mp4)
 
 
 ## Contributing
