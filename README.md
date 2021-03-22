@@ -10,8 +10,11 @@ This config is for IR Users.
 - Bypass IP CIDR Iran to direct 
 - Full support Telegram IP's in proxy rules
 - Blockes Ads domain (Adguard easylist [ads site, Malware site, Privacy], Iranian advertising site)
-
-
+</br>
+<p align='center'>
+<img src="https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/img/screenshot.jpg">
+</p>
+</br>
 ## How to use config in ShadowRocket?
 
 Config Direct Link : `https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/shadowIR.conf`
