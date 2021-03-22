@@ -17,7 +17,7 @@ This config is for IR Users.
 </p>
 </br>
 
-## How to use config & Server in ShadowRocket?
+## How to use Config & Server in ShadowRocket?
 
 Config Direct Link : `https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/shadowIR.conf`
 
