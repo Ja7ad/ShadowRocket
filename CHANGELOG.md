@@ -1,3 +1,7 @@
+### version 0.0.6
+
+- AppleApps add to direct
+
 ### version 0.0.5
 
 - Iran Ads site add to block list
