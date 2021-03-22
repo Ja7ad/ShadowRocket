@@ -6,10 +6,10 @@ This config is for IR Users.
 
 **Features :**
 
-- DNS adguard for remove ads
-- Bypass GeoIP Iran to direct 
+- DNS Cloudflare for improved speed
+- Bypass IP CIDR Iran to direct 
 - Full support Telegram IP's in proxy rules
-- Rejected Ads domain on proxy
+- Blockes Ads domain (Adguard easylist [ads site, Malware site, Privacy], Iranian advertising site)
 
 
 ## How to use config in ShadowRocket?
