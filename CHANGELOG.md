@@ -1,3 +1,7 @@
+### version 0.0.7
+
+- More 70k ads, popup, ios ads site blocked
+
 ### version 0.0.6
 
 - AppleApps add to direct
