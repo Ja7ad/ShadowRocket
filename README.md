@@ -17,16 +17,11 @@ This config is for IR Users.
 </p>
 </br>
 
-## How to use Config & ~~Server~~ in ShadowRocket?
+## How to use Configin ShadowRocket?
 
 Config Direct Link : `https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/shadowIR.conf`
 
 - ✅ [Video how to add/update remote config](https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/video/config.mp4)
-
-
-~~Server Direct Link : `https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/ShadowSV.yml`~~
-
-~~- ✅ [Video how to add/update remote servers](https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/video/server.mp4)~~
 
 
 ## Contributing
