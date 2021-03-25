@@ -1,3 +1,7 @@
+### version 0.1.0
+
+- Config optimized and changed plist rule base cdn links
+
 ### version 0.0.9
 
 - GoodbyAds filter list add
