@@ -1,3 +1,8 @@
+### version 0.0.8
+
+- Adguard blocked site updated
+- Blocked Iran ads service updated
+
 ### version 0.0.7
 
 - More 70k ads, popup, ios ads site blocked
