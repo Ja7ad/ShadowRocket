@@ -1,3 +1,9 @@
+### version 0.0.9
+
+- GoodbyAds filter list add
+- Youtube ads filter list add
+- Spotify ads filter list add
+
 ### version 0.0.8
 
 - Adguard blocked site updated
