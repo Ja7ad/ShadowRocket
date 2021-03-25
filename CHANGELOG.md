@@ -1,3 +1,7 @@
+### version 0.1.2
+
+- social ads add in url rewriter
+
 ### version 0.1.1
 
 - social ads add in remote plist filter
