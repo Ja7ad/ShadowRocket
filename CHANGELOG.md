@@ -1,3 +1,7 @@
+### version 0.1.1
+
+- social ads add in remote plist filter
+
 ### version 0.1.0
 
 - Config optimized and changed plist rule base cdn links
