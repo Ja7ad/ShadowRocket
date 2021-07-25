@@ -2,7 +2,7 @@
 
 This config is for IR Users.
 
-- See Changelog version 0.1.1 : [Changelogs](/CHANGELOG.md)
+- See Changelog version 0.2.0 : [Changelogs](/CHANGELOG.md)
 
 **Features :**
 

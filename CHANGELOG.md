@@ -1,3 +1,7 @@
+### version 0.2.0
+
+- iran url direct add
+
 ### version 0.1.2
 
 - social ads add in url rewriter

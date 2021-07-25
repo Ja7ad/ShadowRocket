@@ -1,5 +1,6 @@
 URL-REGEX,[0-9a-z]*\.google\.com
 URL-REGEX,[0-9a-z]*\.[0-9a-z]*\.google\.com
+USER-AGENT,Line*
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,4tern.com
 DOMAIN-SUFFIX,85.17.73.31
