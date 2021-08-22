@@ -1,15 +1,21 @@
 # Shadowrocket Config
 
-This config is for Iranian Users.
+The following configuration is for Iranian users.
 
-- See Changelog version 0.3.0 : [Changelogs](/CHANGELOG.md)
+**changelog version 0.3.0**
+
+- reject/iran.list updated [#3](https://github.com/Ja7ad/ShadowRocket/issues/3)
+- updated telegram ip [#3](https://github.com/Ja7ad/ShadowRocket/issues/3)
+- updated url rewrites
+- add update-url for configuration
+- disable ip
 
 **Features :**
 
-- DNS Cloudflare for improved speed
-- Bypass IP CIDR Iran to direct 
-- Full support Telegram IP's in proxy rules
-- Blockes Ads domain (Adguard easylist [ads site, Malware site, Privacy], Iranian advertising site)
+- Cloudflare DNS to improve speed
+- Bypass Iran's IP CIDR to direct traffic 
+- Support Telegram IP addresses in proxy rules
+- Block Ads domain (Adguard easylist [ad site, malware site, privacy site, Iranian advertising site])
 
 </br>
 <p align='center'>
@@ -26,8 +32,8 @@ Config Direct Link : `https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/
 
 ## Contributing
 
-For contributing to this repo follow :
+If you would like to contribute, please follow these steps:
 
-1. fork repo to your repository
-2. add your rules to `ShadowIR.conf`
-3. Send Pull Request for update config
+1. Fork the repo to your repository
+2. Add your rules to the `ShadowIR.conf` file
+3. Send pull requests for update of configuration
