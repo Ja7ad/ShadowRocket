@@ -8,7 +8,7 @@ The following configuration is for Iranian users.
 </p>
 </br>
 
-## How to use Configin ShadowRocket?
+## How to use configuration the ShadowRocket?
 
 Config Direct Link : `https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/shadowIR.conf`
 
