@@ -1,3 +1,11 @@
+### version 0.3.0
+
+- reject/iran.list updated [#3](https://github.com/Ja7ad/ShadowRocket/issues/3)
+- updated telegram ip [#3](https://github.com/Ja7ad/ShadowRocket/issues/3)
+- updated url rewrites
+- add update-url for configuration
+- disable ipv6
+
 ### version 0.2.0
 
 - iran url direct add

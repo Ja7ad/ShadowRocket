@@ -1,8 +1,8 @@
 # Shadowrocket Config
 
-This config is for IR Users.
+This config is for Iranian Users.
 
-- See Changelog version 0.2.0 : [Changelogs](/CHANGELOG.md)
+- See Changelog version 0.3.0 : [Changelogs](/CHANGELOG.md)
 
 **Features :**
 
