@@ -2,21 +2,6 @@
 
 The following configuration is for Iranian users.
 
-**changelog version 0.3.0**
-
-- reject/iran.list updated [#3](https://github.com/Ja7ad/ShadowRocket/issues/3)
-- updated telegram ip [#3](https://github.com/Ja7ad/ShadowRocket/issues/3)
-- updated url rewrites
-- add update-url for configuration
-- disable ip
-
-**Features :**
-
-- Cloudflare DNS to improve speed
-- Bypass Iran's IP CIDR to direct traffic 
-- Support Telegram IP addresses in proxy rules
-- Block Ads domain (Adguard easylist [ad site, malware site, privacy site, Iranian advertising site])
-
 </br>
 <p align='center'>
 <img src="https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/img/screenshot.jpg">
@@ -28,6 +13,24 @@ The following configuration is for Iranian users.
 Config Direct Link : `https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/shadowIR.conf`
 
 - ✅ [Video how to add/update remote config](https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/video/config.mp4)
+
+
+
+### **changelog version 0.3.0**
+
+- reject/iran.list updated [#3](https://github.com/Ja7ad/ShadowRocket/issues/3)
+- updated telegram ip [#3](https://github.com/Ja7ad/ShadowRocket/issues/3)
+- updated url rewrites
+- add update-url for configuration
+- disable ip
+
+### **Features :**
+
+- Cloudflare DNS to improve speed
+- Bypass Iran's IP CIDR to direct traffic 
+- Support Telegram IP addresses in proxy rules
+- Block Ads domain (Adguard easylist [ad site, malware site, privacy site, Iranian advertising site])
+
 
 
 ## Contributing
